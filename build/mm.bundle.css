@@ -13083,7 +13083,7 @@ mm-course-list-item div.item-icon-left.earlysubmission {
 
 .mm-mm_login_credentials, .mm-mm_login_reconnect, .mm-mm_login_site {
   background: -webkit-radial-gradient(white, #eeeeee);
-  background: radial-gradient(white, #eeeeee); }
+  background: radial-gradient(white, #41a497); }
   .mm-mm_login_credentials .mm-ioninput-password, .mm-mm_login_reconnect .mm-ioninput-password, .mm-mm_login_site .mm-ioninput-password {
     padding-top: 0;
     padding-bottom: 0; }
@@ -13237,7 +13237,7 @@ li.mm-question-answer-incorrect,
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #41a497;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff;
   height: 80px !important; }
